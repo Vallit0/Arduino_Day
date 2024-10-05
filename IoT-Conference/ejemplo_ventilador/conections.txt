@@ -1,0 +1,4 @@
+VCC del L9110 -> 3.3V o 5V del ESP32 (Verifica la especificación del módulo L9110, aunque generalmente soporta 5V)
+GND del L9110 -> GND del ESP32
+IN1 del L9110 -> GPIO del ESP32 (Ej. GPIO 17)
+IN2 del L9110 -> GPIO del ESP32 (Ej. GPIO 16)
